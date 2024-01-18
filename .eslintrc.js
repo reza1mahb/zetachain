@@ -8,7 +8,7 @@ const OFF = 0;
 module.exports = {
   env: {
     browser: false,
-    es2021: true,
+    es2021: false,
     mocha: true,
     node: true,
   },
